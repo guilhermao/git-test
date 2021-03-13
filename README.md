@@ -1,3 +1,4 @@
 # git-test
 
-Projeto para testes de git alias e outros envolvendo git e github
+Projeto para testes de git alias e outros envolvendo git e github.
+Projeto em typescript
